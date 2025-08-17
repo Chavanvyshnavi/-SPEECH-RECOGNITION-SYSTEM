@@ -27,4 +27,4 @@ Once processed, the recognized text is displayed on the screen. This completes t
 
 Outcome
 
-The final system is a functional speech-to-text application. It is beginner-friendly, easy to run, and demonstrates the basic workflow of how modern speech recognition works. By combining recording, saving, and transcribing, this task fulfills the requirement of building a simple yet effective Speech Recognition System.
+The final system is a functional speech-to-text application. It is beginner-friendly, easy to run, and demonstrates the basic workflow of how modern speech recognition works. By combining recording, saving, and transcribing, this task fulfills the requirement of building a simple yet effective Speech Recognition System
